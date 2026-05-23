@@ -1,4 +1,5 @@
-# TODO: Step 1 - Import FastAPI and set up the first test route.
+# TODO: Step 1 - Import FastAPI and set up the first test route. DONE TEST
+# Day 1 - Learned Python Decorators and Virtual Environments
 
 from fastapi import FastAPI
 
